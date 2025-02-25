@@ -1,4 +1,4 @@
-👋 Hi, I’m @NaziaDanish
+👋 Hi, I’m @NaziaDanish and Hibah Noor is my Daughter.
 
 🚀 I’m passionate about mobile app development and web development. Currently, I’m building my skills at Sylani Mass IT Training (SMIT) and have completed HTML and CSS. I’m learning more about JavaScript, React, and other web technologies.
 
